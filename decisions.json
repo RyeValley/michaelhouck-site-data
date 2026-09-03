@@ -1,0 +1,19 @@
+{
+ "updated": "2026-09-03T01:48:54+00:00",
+ "items": [
+  {
+   "id": "2026-09-02-michael-houck-is-the-brand",
+   "date": "2026-09-02",
+   "call": "Build Hard Calls as its own brand, or put my name on the door?",
+   "choice": "My name. Hard Calls is the body of work under it, the way Atomic Habits sits under James Clear. hardcalls.co redirects here, the brain install spins out as its own company, and the newsletter list ports to this site.",
+   "stakes": "58,000 readers, a domain, and a rebrand I cannot afford to do twice",
+   "status": "made",
+   "reversible": "Yes, a page move, with a six-month tripwire",
+   "entities": [
+    "hard-calls",
+    "hockey-stick",
+    "michael-houck"
+   ]
+  }
+ ]
+}
