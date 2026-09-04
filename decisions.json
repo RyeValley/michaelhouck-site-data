@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-04T13:29:30+00:00",
+ "updated": "2026-09-04T14:43:23+00:00",
  "items": [
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
    "date": "2026-09-02",
-   "call": "What does Megaphone sell after the first 90 days?",
-   "choice": "An ongoing engagement that grows from the founder to the rest of the company, priced from a floor and scoped two months in, never a flat monthly fee. Founder content agencies lose clients around month five because founders run out of patience. A 90-day install with a defined end, then a graduation into the ongoing work, fixes the shape of the relationship rather than the marketing.",
+   "call": "What do we sell a client after the first 90 days are up?",
+   "choice": "I run a company that builds founders' audiences for them. The first 90 days are a fixed project with an end date, and I kept getting asked what comes next. Agencies like mine usually lose the client around month five, because the founder runs out of patience with something that never finishes. So the next stage isn't a monthly retainer at a flat price. It's a new scope we agree at day 60, once we know what's actually working, and it widens from the founder to the rest of the company.",
    "stakes": "The recurring revenue model of the portfolio's largest business",
    "status": "made",
    "reversible": "Yes, with the next cohort",
@@ -16,8 +16,8 @@
   {
    "id": "2026-09-02-michael-houck-is-the-brand",
    "date": "2026-09-02",
-   "call": "Build Hard Calls as its own brand, or put my name on the door?",
-   "choice": "My name. Hard Calls is the body of work under it, the way Atomic Habits sits under James Clear. hardcalls.co redirects here, the brain install spins out as its own company, and the newsletter list ports to this site.",
+   "call": "Do I build a brand around the work, or put my own name on it?",
+   "choice": "My name. I'd been writing a newsletter called Hard Calls and was about to make it a company of its own, with its own site and its own logo. I stopped. The writing is mine, and splitting it off would have meant building an audience twice. Now the newsletter, the essays and the businesses all sit under michaelhouck.co, and the old domain points here.",
    "stakes": "58,000 readers, a domain, and a rebrand I cannot afford to do twice",
    "status": "made",
    "reversible": "Yes. A page move, with a six-month check-in",
@@ -30,8 +30,8 @@
   {
    "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
    "date": "2026-08-08",
-   "call": "Launch Hockey Stick as its own brand, or fold it into Hard Calls?",
-   "choice": "Fold it. Two brands means two websites, two launches and two things to explain. Hockey Stick becomes the implementation tier inside Hard Calls. The original idea, a network of AI expert clones, moves to the long-term shelf instead of the launch calendar.",
+   "call": "Do I launch a fifth company, or make it part of one I already have?",
+   "choice": "Part of the one I have. I'd been eight days from launching a separate business that installs the decision-making system I write about. Two brands means two websites, two launches, and explaining twice why they're related. So it became the paid tier of the newsletter instead. The original idea behind it, a network of AI clones of experts, went on the shelf. It was the interesting part and the part nobody was asking to buy.",
    "stakes": "A launch scheduled eight days out, and a second brand to carry",
    "status": "made",
    "reversible": "Yes. It can spin back out if it earns its own buyer",
