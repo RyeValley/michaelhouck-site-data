@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T13:19:01+00:00",
+ "updated": "2026-09-04T13:28:48+00:00",
  "items": [
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
@@ -56,8 +56,8 @@
    "id": "2026-07-31-newsletter-platform-split",
    "date": "2026-07-31",
    "call": "One newsletter issue a week, or one per platform?",
-   "choice": "One per platform. X and LinkedIn readers want different things and the combined issue served neither. The cost is doubled production and separate funnels; the return is knowing which platform actually converts.",
-   "stakes": "A 5,000-reader newsletter and the funnel behind a business",
+   "choice": "One per platform. X and LinkedIn readers want different things and the combined issue served neither. The cost is doubled production and two sets of tracking; the return is knowing which platform brings in readers who stay.",
+   "stakes": "A 5,000-reader newsletter that feeds one of the businesses",
    "status": "made",
    "reversible": "Yes",
    "entities": [
@@ -234,7 +234,7 @@
    "date": "2025-03-07",
    "call": "If AI assistants start reading everyone's inbox and summarizing newsletters, what happens to a company built on a newsletter?",
    "choice": "I decided not to bet the company on the newsletter's future. Keep growing it and taking sponsor revenue while it lasts, make the agencies referral and partnership driven so they do not depend on it, and reinvest in video and social where the audience relationship survives. Planning further out than that I judged a mistake.",
-   "stakes": "A newsletter that was the top of every funnel the company had",
+   "stakes": "The newsletter every business in the company depended on for new customers",
    "status": "made",
    "reversible": "Yes. It is a posture, not a contract",
    "entities": [
