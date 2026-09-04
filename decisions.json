@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T15:10:15+00:00",
+ "updated": "2026-09-04T15:10:27+00:00",
  "items": [
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
@@ -150,6 +150,19 @@
    "entities": [
     "rye-valley",
     "hard-calls",
+    "megaphone",
+    "lore"
+   ]
+  },
+  {
+   "id": "2025-09-09-add-geo-seo-service-via-white-label-partner",
+   "date": "2025-09-09",
+   "call": "Clients kept asking for search and AI search content. Hire for it, or bring in a partner under our brand?",
+   "choice": "I brought in a trusted friend's search shop under our brand at double their price rather than hiring, because it could start in a week and I had worked with them before. Even doubled it cost clients less than our writing work, so it opened a second reason to buy without anyone new to manage.",
+   "stakes": "A new service line inside the largest business, sold from day one",
+   "status": "made",
+   "reversible": "Yes. A partnership, not a payroll",
+   "entities": [
     "megaphone",
     "lore"
    ]
