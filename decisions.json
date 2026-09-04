@@ -1,6 +1,31 @@
 {
- "updated": "2026-09-03T10:16:01+00:00",
+ "updated": "2026-09-04T00:48:49+00:00",
  "items": [
+  {
+   "id": "2026-09-03-hold-revenue-transparency",
+   "date": "2026-09-03",
+   "call": "Publish revenue by business on this site?",
+   "choice": "Not yet. Transparency compounds for people whose line goes up. Mine has been flat to down for a year, and publishing a flat line is not brave, it is noise. The tripwire is written: six months trending up and a consolidated monthly floor, and the numbers switch on without another debate.",
+   "stakes": "Credibility either way, and a site built to show the figures",
+   "status": "made",
+   "reversible": "Yes. The data keeps running privately; publishing is a flag",
+   "entities": [
+    "rye-valley",
+    "michael-houck"
+   ]
+  },
+  {
+   "id": "2026-09-02-megaphone-studio-expansion-model",
+   "date": "2026-09-02",
+   "call": "What does Megaphone sell after the 90-day install?",
+   "choice": "A recurring engagement that expands from the founder into the company, priced from a floor and scoped at day 60, never flat. Founder content agencies churn at month five because founders lose patience. A dated install with a defined end, then a graduation, fixes the shape of the relationship rather than the marketing.",
+   "stakes": "The recurring revenue model of the portfolio's largest business",
+   "status": "made",
+   "reversible": "Yes, with the next cohort",
+   "entities": [
+    "megaphone"
+   ]
+  },
   {
    "id": "2026-09-02-michael-houck-is-the-brand",
    "date": "2026-09-02",
@@ -13,6 +38,79 @@
     "hard-calls",
     "hockey-stick",
     "michael-houck"
+   ]
+  },
+  {
+   "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
+   "date": "2026-08-08",
+   "call": "Launch Hockey Stick as its own brand, or fold it into Hard Calls?",
+   "choice": "Fold it. Two brands means two funnels, two launches and two things to explain. Hockey Stick becomes the implementation tier inside Hard Calls. The AI expert-clone network, the original idea, moves to the long-term bet shelf instead of the launch calendar.",
+   "stakes": "A launch scheduled eight days out, and a second brand to carry",
+   "status": "made",
+   "reversible": "Yes. It can spin back out if it earns its own buyer",
+   "entities": [
+    "hard-calls",
+    "hockey-stick"
+   ]
+  },
+  {
+   "id": "2026-08-08-lore-pricing-model",
+   "date": "2026-08-08",
+   "call": "How do we price Lore?",
+   "choice": "A one-time install first, a monthly engine second, video as an add-on. The install is the default path and the copy pushes it, because clients who skip the foundation churn on the recurring. Content is sold as coverage of an approved map, never as an article count.",
+   "stakes": "The pricing of a business at the start of its growth",
+   "status": "made",
+   "reversible": "Yes. Prices are a page edit; the structure is the commitment",
+   "entities": [
+    "lore"
+   ]
+  },
+  {
+   "id": "2026-08-07-megaphone-acquisition-offer-declined",
+   "date": "2026-08-07",
+   "call": "Take the $1,128,000 offer for Megaphone?",
+   "choice": "No. Two weeks earlier I had been worried AI would hollow out the model. Then we built our own system and the worry reversed: we can now run more accounts at higher margin with the people we have, and there is a new way to sell the service. Selling into that would have been selling the bottom.",
+   "stakes": "$1,128,000 cash, against a business I now believe is worth more",
+   "status": "made",
+   "reversible": "No. The buyer moved on",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2026-07-31-newsletter-platform-split",
+   "date": "2026-07-31",
+   "call": "One newsletter issue a week, or one per platform?",
+   "choice": "One per platform. X and LinkedIn readers want different things and the combined issue served neither. The cost is doubled production and separate funnels; the return is knowing which platform actually converts.",
+   "stakes": "A 5,000-reader newsletter and the funnel behind a business",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-29-company-brain-established",
+   "date": "2026-07-29",
+   "call": "Where does the company's memory live?",
+   "choice": "A git-versioned markdown vault on a machine I own, with every meeting recorded and every decision filed. Not a wiki product, not a vector database. Plain files an agent can grep beat a smarter system we would not maintain. We sell this, so we run it.",
+   "stakes": "Every decision, meeting and number the company makes from here",
+   "status": "made",
+   "reversible": "Yes. Markdown exports anywhere",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-22-megaphone-hold-vs-sell",
+   "date": "2026-07-22",
+   "call": "Sell Megaphone now, or hold and consolidate?",
+   "choice": "Hold. The offer on the table priced an agency. Cutting the writer bench and running the accounts on our own software takes margins from agency level toward software level, and next year a wider set of buyers can finance a deal. I would rather sell a better business later than this one now.",
+   "stakes": "A six-figure agency, the largest business in the portfolio",
+   "status": "made",
+   "reversible": "Yes. An offer can be re-opened; the consolidation cannot be un-done quickly",
+   "entities": [
+    "megaphone"
    ]
   }
  ]
