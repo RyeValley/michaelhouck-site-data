@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-04T15:03:03+00:00",
+ "updated": "2026-09-04T15:10:15+00:00",
  "items": [
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
    "date": "2026-09-02",
    "call": "What do we sell a client after the first 90 days are up?",
-   "choice": "Not a flat monthly retainer. We agree a new scope at day 60, once we know what is working. Agencies like mine lose the client around month five, when the founder runs out of patience with something that never finishes.",
+   "choice": "Not a flat monthly retainer. We agree a new scope at day 60, once we know what is working. Businesses like mine lose the client around month five, when the founder runs out of patience with something that never finishes.",
    "stakes": "The recurring revenue model of the portfolio's largest business",
    "status": "made",
    "reversible": "Yes, with the next cohort",
@@ -43,7 +43,7 @@
   {
    "id": "2026-08-08-lore-pricing-model",
    "date": "2026-08-08",
-   "call": "How should I price a new agency?",
+   "call": "How should I price a brand new business?",
    "choice": "A one-time setup first, then a monthly fee, with video as an add-on. Clients who skip the setup leave the monthly plan early, so the copy pushes the setup hard.",
    "stakes": "The pricing of a business at the start of its growth",
    "status": "made",
@@ -79,9 +79,9 @@
   {
    "id": "2026-07-22-megaphone-hold-vs-sell",
    "date": "2026-07-22",
-   "call": "Sell the agency, or keep building it?",
-   "choice": "Keep it. The best offer was $1,128,000, which prices an agency. Running the accounts on our own software moves the margins toward software margins, and I would rather sell a better business later.",
-   "stakes": "A six-figure agency, the largest business in the portfolio",
+   "call": "Sell my biggest business, or keep building it?",
+   "choice": "Keep it. The best offer was $1,128,000, which priced it as a service business. Running the accounts on our own software moves the margins toward software margins, and I would rather sell a better business later.",
+   "stakes": "Six figures a year, the largest business I own",
    "status": "made",
    "reversible": "Yes. A buyer can be re-approached",
    "entities": [
@@ -105,8 +105,8 @@
   {
    "id": "2026-05-13-start-jolt-short-form-video-agency",
    "date": "2026-05-13",
-   "call": "Start a short form video agency for founders as a separate business?",
-   "choice": "Yes. I started JOLT as its own company with an operating partner who holds equity, rather than adding video to the existing agency. Short form video for founders is a different craft, a different buyer, and a different pace, and it deserved its own front door.",
+   "call": "Start a short-form video company for founders as a separate business?",
+   "choice": "Yes. I started JOLT as its own company with an operating partner who holds equity, rather than adding video to what I already ran. Short-form video for founders is a different craft, a different buyer, and a different pace, and it deserved its own front door.",
    "stakes": "The portfolio's fifth operating business",
    "status": "made",
    "reversible": "Yes. It could be folded into Megaphone",
@@ -117,7 +117,7 @@
   {
    "id": "2026-05-07-lore-becomes-its-own-brand",
    "date": "2026-05-07",
-   "call": "Keep the search and AI search work as a service line inside the agency, or make it its own company?",
+   "call": "Keep the search work as one more service, or make it its own company?",
    "choice": "Its own company. I bought the Lore domain, started the LLC, and put a landing page and a free automated site audit in front of it. The work had outgrown being a line item and deserved its own list, its own site, and its own name.",
    "stakes": "The portfolio's fourth operating business",
    "status": "made",
@@ -129,8 +129,8 @@
   {
    "id": "2026-04-16-build-ai-content-agents-in-house",
    "date": "2026-04-16",
-   "call": "Bring in an outside AI automation agency under our brand, or build the content agents ourselves?",
-   "choice": "Build them ourselves. The agencies I interviewed were selling last generation, one off bots and we were already building better ones for our own accounts. I aimed the build at a $200 a month self serve product for founders, with the same agents running our client work underneath.",
+   "call": "Hire an outside AI firm to build our agents, or build them ourselves?",
+   "choice": "Build them ourselves. The firms I interviewed were selling last-generation, one-off bots, and we were already building better ones for our own clients. I aimed the build at a $200 a month self-serve product, with the same agents running our client work underneath.",
    "stakes": "The company's first software product since the platform, and the path to software margins",
    "status": "made",
    "reversible": "Yes. Vendors can still be brought in later",
@@ -155,26 +155,13 @@
    ]
   },
   {
-   "id": "2025-09-09-add-geo-seo-service-via-white-label-partner",
-   "date": "2025-09-09",
-   "call": "Clients kept asking for search and AI search content. Hire for it, or bring in a partner under our brand?",
-   "choice": "I brought in a trusted friend's search shop under our brand at double their price rather than hiring, because it could start in a week and I had worked with them before. Even doubled it cost clients less than the ghostwriting. That white label line is what later became Lore.",
-   "stakes": "A new service line inside the largest business, sold from day one",
-   "status": "made",
-   "reversible": "Yes. A partnership, not a payroll",
-   "entities": [
-    "megaphone",
-    "lore"
-   ]
-  },
-  {
    "id": "2025-07-29-youtube-is-the-2025-launch",
    "date": "2025-07-29",
    "call": "Every year the company had launched a new business. Launch another one in 2025, or make this the year of video?",
    "choice": "I made the weekly founder interview series on YouTube the year's launch, backed by small in person dinners and retreats, and put reinvestment into the newsletter ahead of starting a fourth business. The plan was for that audience to carry a fund launch the following year.",
    "stakes": "A year without a new business, traded for one owned channel",
    "status": "made",
-   "reversible": "Yes. A new agency could still start any quarter",
+   "reversible": "Yes. A new business could still start any quarter",
    "entities": [
     "hard-calls",
     "rye-valley"
@@ -195,8 +182,8 @@
   {
    "id": "2025-05-22-combine-megaphone-and-studio-into-one-brand",
    "date": "2025-05-22",
-   "call": "Keep the software platform and the ghostwriting agency as two brands, or fold them into one?",
-   "choice": "One brand. I packaged Megaphone and the agency together on a single site so a buyer would see one business and a client would see one path to growing their account. Combined, with some AI in the content process, it also had a shot at a software multiple instead of an agency one.",
+   "call": "Run the software and the done-for-you service as two brands, or one?",
+   "choice": "One brand. I put them on a single site so a buyer would see one business and a client would see one path to growing their account. Combined, with AI in the process, it also had a shot at a software multiple.",
    "stakes": "How the company's largest business is understood and valued",
    "status": "made",
    "reversible": "Costly. Two brands would need to be rebuilt",
@@ -207,9 +194,9 @@
   {
    "id": "2025-05-13-ai-writing-test-decides-whether-to-sell-the-agency",
    "date": "2025-05-13",
-   "call": "Sell the ghostwriting agency while it is growing, or keep running it?",
-   "choice": "I made the sale conditional on one test: if AI could write well enough in a client's voice, we would sell the agency and build the next business on the new tools; if not, we would keep it and use AI only for workflow. Two weeks later the test passed and I put the agency on the market. Fourteen months on I took it off again; the offers priced an agency and the business was worth more run leaner.",
-   "stakes": "The company's largest business, a six figure agency",
+   "call": "Sell my biggest business while it is growing, or keep running it?",
+   "choice": "I made the sale conditional on one test: if AI could write well enough in a client's voice, I would sell and build the next thing on the new tools. Two weeks later the test passed and I put the business on the market. Fourteen months on I took it off again, because the offers came in low and it was worth more run leaner.",
+   "stakes": "The largest business I own, six figures a year",
    "status": "reversed",
    "reversible": "Yes, and it was. Buyers can be re-approached",
    "entities": [
@@ -220,9 +207,9 @@
   {
    "id": "2025-05-13-reprice-megaphone-studio-4k-default-with-tiers",
    "date": "2025-05-13",
-   "call": "Raise the ghostwriting agency's default price from $3,000 to $4,000 a month?",
+   "call": "Raise my default price from $3,000 to $4,000 a month?",
    "choice": "Yes. I made $4,000 the default and added platform credits to it, then added a $6,000 tier with strategy calls and a top tier with dedicated people assigned to the account. When prospects asked for something lower, the old $3,000 suddenly felt cheap to them, which was the point.",
-   "stakes": "A 33% price increase on the agency's core offer",
+   "stakes": "A 33% price increase on the core offer",
    "status": "made",
    "reversible": "Yes. A price list",
    "entities": [
@@ -233,7 +220,7 @@
    "id": "2025-03-07-plan-for-ai-inbox-threat-to-newsletter",
    "date": "2025-03-07",
    "call": "If AI assistants start reading everyone's inbox and summarizing newsletters, what happens to a company built on a newsletter?",
-   "choice": "I decided not to bet the company on the newsletter's future. Keep growing it and taking sponsor revenue while it lasts, make the agencies referral and partnership driven so they do not depend on it, and reinvest in video and social where the audience relationship survives. Planning further out than that I judged a mistake.",
+   "choice": "I decided not to bet the company on the newsletter. Keep growing it and taking sponsor revenue while it lasts, make the other businesses run on referrals and partnerships so they do not depend on it, and reinvest in video and social where the audience relationship survives.",
    "stakes": "The newsletter every business in the company depended on for new customers",
    "status": "made",
    "reversible": "Yes. It is a posture, not a contract",
