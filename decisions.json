@@ -1,24 +1,11 @@
 {
- "updated": "2026-09-04T10:15:43+00:00",
+ "updated": "2026-09-04T12:40:42+00:00",
  "items": [
-  {
-   "id": "2026-09-03-hold-revenue-transparency",
-   "date": "2026-09-03",
-   "call": "Publish revenue by business on this site?",
-   "choice": "Not yet. Transparency compounds for people whose line goes up. Mine has been flat to down for a year, and publishing a flat line is not brave, it is noise. The tripwire is written: six months trending up and a consolidated monthly floor, and the numbers switch on without another debate.",
-   "stakes": "Credibility either way, and a site built to show the figures",
-   "status": "made",
-   "reversible": "Yes. The data keeps running privately; publishing is a flag",
-   "entities": [
-    "rye-valley",
-    "michael-houck"
-   ]
-  },
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
    "date": "2026-09-02",
-   "call": "What does Megaphone sell after the 90-day install?",
-   "choice": "A recurring engagement that expands from the founder into the company, priced from a floor and scoped at day 60, never flat. Founder content agencies churn at month five because founders lose patience. A dated install with a defined end, then a graduation, fixes the shape of the relationship rather than the marketing.",
+   "call": "What does Megaphone sell after the first 90 days?",
+   "choice": "An ongoing engagement that grows from the founder to the rest of the company, priced from a floor and scoped two months in, never a flat monthly fee. Founder content agencies lose clients around month five because founders run out of patience. A 90-day install with a defined end, then a graduation into the ongoing work, fixes the shape of the relationship rather than the marketing.",
    "stakes": "The recurring revenue model of the portfolio's largest business",
    "status": "made",
    "reversible": "Yes, with the next cohort",
@@ -33,7 +20,7 @@
    "choice": "My name. Hard Calls is the body of work under it, the way Atomic Habits sits under James Clear. hardcalls.co redirects here, the brain install spins out as its own company, and the newsletter list ports to this site.",
    "stakes": "58,000 readers, a domain, and a rebrand I cannot afford to do twice",
    "status": "made",
-   "reversible": "Yes, a page move, with a six-month tripwire",
+   "reversible": "Yes. A page move, with a six-month check-in",
    "entities": [
     "hard-calls",
     "hockey-stick",
@@ -44,7 +31,7 @@
    "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
    "date": "2026-08-08",
    "call": "Launch Hockey Stick as its own brand, or fold it into Hard Calls?",
-   "choice": "Fold it. Two brands means two funnels, two launches and two things to explain. Hockey Stick becomes the implementation tier inside Hard Calls. The AI expert-clone network, the original idea, moves to the long-term bet shelf instead of the launch calendar.",
+   "choice": "Fold it. Two brands means two funnels, two launches and two things to explain. Hockey Stick becomes the implementation tier inside Hard Calls. The original idea, a network of AI expert clones, moves to the long-term shelf instead of the launch calendar.",
    "stakes": "A launch scheduled eight days out, and a second brand to carry",
    "status": "made",
    "reversible": "Yes. It can spin back out if it earns its own buyer",
@@ -57,24 +44,12 @@
    "id": "2026-08-08-lore-pricing-model",
    "date": "2026-08-08",
    "call": "How do we price Lore?",
-   "choice": "A one-time install first, a monthly engine second, video as an add-on. The install is the default path and the copy pushes it, because clients who skip the foundation churn on the recurring. Content is sold as coverage of an approved map, never as an article count.",
+   "choice": "A one-time setup first, a monthly engine second, video as an add-on. The setup is the default path and the copy pushes it, because clients who skip the groundwork leave the monthly plan early. Content is sold as coverage of an agreed topic map, never as an article count.",
    "stakes": "The pricing of a business at the start of its growth",
    "status": "made",
    "reversible": "Yes. Prices are a page edit; the structure is the commitment",
    "entities": [
     "lore"
-   ]
-  },
-  {
-   "id": "2026-08-07-megaphone-acquisition-offer-declined",
-   "date": "2026-08-07",
-   "call": "Take the $1,128,000 offer for Megaphone?",
-   "choice": "No. Two weeks earlier I had been worried AI would hollow out the model. Then we built our own system and the worry reversed: we can now run more accounts at higher margin with the people we have, and there is a new way to sell the service. Selling into that would have been selling the bottom.",
-   "stakes": "$1,128,000 cash, against a business I now believe is worth more",
-   "status": "made",
-   "reversible": "No. The buyer moved on",
-   "entities": [
-    "megaphone"
    ]
   },
   {
@@ -104,11 +79,11 @@
   {
    "id": "2026-07-22-megaphone-hold-vs-sell",
    "date": "2026-07-22",
-   "call": "Sell Megaphone now, or hold and consolidate?",
-   "choice": "Hold. The offer on the table priced an agency. Cutting the writer bench and running the accounts on our own software takes margins from agency level toward software level, and next year a wider set of buyers can finance a deal. I would rather sell a better business later than this one now.",
+   "call": "Sell Megaphone, or keep building it?",
+   "choice": "Keep it. The offers priced an agency, the best one at $1,128,000. Cutting the writer bench and running the accounts on our own software moves margins from agency level toward software level, and next year a wider set of buyers can finance a deal. I would rather sell a better business later than this one now.",
    "stakes": "A six-figure agency, the largest business in the portfolio",
    "status": "made",
-   "reversible": "Yes. An offer can be re-opened; the consolidation cannot be un-done quickly",
+   "reversible": "Yes. A buyer can be re-approached",
    "entities": [
     "megaphone"
    ]
