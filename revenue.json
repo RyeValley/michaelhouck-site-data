@@ -73,9 +73,9 @@
    "megaphone": 59795.36
   },
   "2026-09": {
-   "hard-calls": 90.0,
+   "hard-calls": 105.0,
    "lore": 2740.0,
-   "megaphone": 3582.0
+   "megaphone": 3898.0
   }
  },
  "source": {
@@ -99,5 +99,5 @@
  "unmatched_dollars": {
   "2026-09": 0
  },
- "updated": "2026-09-07T10:15:09+00:00"
+ "updated": "2026-09-08T10:15:49+00:00"
 }
