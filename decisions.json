@@ -1,6 +1,20 @@
 {
- "updated": "2026-09-09T10:15:36+00:00",
+ "updated": "2026-09-10T03:31:31+00:00",
  "items": [
+  {
+   "id": "2026-09-04-rename-newsletter-anyhouck-leverage-positioning",
+   "date": "2026-09-04",
+   "call": "Keep the newsletter named after the method, or rename it for what it is about?",
+   "choice": "Rename it. Hard Calls described the mechanism. The newsletter is about leverage: how one founder runs several companies he owns outright and still has a life. It is now Anyhouck, a play on my last name and the word anyhow, with one line under it: how to build leverage, make hard calls, and stay in control. Hard calls stays as the how. The site keeps my name.",
+   "stakes": "The name on 58,000 inboxes every Sunday",
+   "status": "made",
+   "reversible": "Yes. A name and a domain",
+   "entities": [
+    "hard-calls",
+    "rye-valley",
+    "michael-houck"
+   ]
+  },
   {
    "id": "2026-09-02-megaphone-studio-expansion-model",
    "date": "2026-09-02",
@@ -155,19 +169,6 @@
    ]
   },
   {
-   "id": "2025-09-09-add-geo-seo-service-via-white-label-partner",
-   "date": "2025-09-09",
-   "call": "Clients kept asking for search and AI search content. Hire for it, or bring in a partner under our brand?",
-   "choice": "I brought in a trusted friend's search shop under our brand at double their price rather than hiring, because it could start in a week and I had worked with them before. Even doubled it priced well against what clients were already spending with us, so it opened a second reason to buy without anyone new to manage.",
-   "stakes": "A new service line inside the largest business, sold from day one",
-   "status": "made",
-   "reversible": "Yes. A partnership, not a payroll",
-   "entities": [
-    "megaphone",
-    "lore"
-   ]
-  },
-  {
    "id": "2025-07-29-youtube-is-the-2025-launch",
    "date": "2025-07-29",
    "call": "Every year the company had launched a new business. Launch another one in 2025, or make this the year of video?",
@@ -205,24 +206,11 @@
    ]
   },
   {
-   "id": "2025-05-13-ai-writing-test-decides-whether-to-sell-the-agency",
-   "date": "2025-05-13",
-   "call": "Sell my biggest business while it is growing, or keep running it?",
-   "choice": "I made the sale conditional on one test: if AI could write well enough in a client's voice, I would sell and build the next thing on the new tools. Two weeks later the test passed and I put the business on the market. Fourteen months on I took it off again, because the offers valued it as a service business and I thought it was worth more than that.",
-   "stakes": "The largest business I own, six figures a year",
-   "status": "reversed",
-   "reversible": "Yes, and it was. Buyers can be re-approached",
-   "entities": [
-    "megaphone",
-    "rye-valley"
-   ]
-  },
-  {
    "id": "2025-05-13-reprice-megaphone-studio-4k-default-with-tiers",
    "date": "2025-05-13",
-   "call": "Raise my default price from $3,000 to $4,000 a month?",
-   "choice": "Yes. I made $4,000 the default and added platform credits to it, then added a $6,000 tier with strategy calls and a top tier with dedicated people assigned to the account. When prospects asked for something lower, the old $3,000 suddenly felt cheap to them, which was the point.",
-   "stakes": "A 33% price increase on the core offer",
+   "call": "Raise the default price on the core offer, or hold it?",
+   "choice": "Raise it, and give the range a shape. I moved the default up, bundled platform credits into it, and added a higher tier with strategy calls and a top tier with people assigned to the account. The range did the selling: once a prospect saw what the top tier included, the middle looked like the sensible choice.",
+   "stakes": "The price of the core offer",
    "status": "made",
    "reversible": "Yes. A price list",
    "entities": [
@@ -269,23 +257,11 @@
    ]
   },
   {
-   "id": "2024-11-26-megaphone-pricing-account-level-minimum-subscription",
-   "date": "2024-11-26",
-   "call": "How should the software charge: keep taking the whole subscription fee, or switch to account level pricing with a small required minimum?",
-   "choice": "I moved Megaphone to account level pricing with a required minimum subscription of about $50 a month, treated as a deposit toward what users spend on the platform, instead of pocketing the full subscription and a cut on top. Simpler for the user, and it stops punishing the people who spend the most.",
-   "stakes": "Every paying account on the platform repriced at once",
-   "status": "made",
-   "reversible": "Yes. A pricing page change",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
    "id": "2024-11-12-start-newsletter-growth-service-arm",
    "date": "2024-11-12",
-   "call": "Start a new business helping other newsletters grow their email lists?",
-   "choice": "Yes. A friend had built an email growth system, we piloted it on my own newsletter, it worked, and within a week we had sold it to other publishers. I spun it up as a new arm of the holding company. Seven months later I moved our clients off it and wound the arm down when the partnership stopped being workable.",
-   "stakes": "A new revenue line that reached $10k in its first week",
+   "call": "Add a newsletter growth service, and does it belong inside Megaphone or on its own?",
+   "choice": "Inside Megaphone. A friend had built an email growth system, we piloted it on my own newsletter, it worked, and within a week we had sold it to other publishers. I kept it as a Megaphone service rather than standing it up as its own company, because it had not been proven out yet. It never got there, and seven months later I moved our clients off it and wound it down.",
+   "stakes": "A new service line, sold in its first week",
    "status": "reversed",
    "reversible": "Yes, and it was. Wound down June 2025",
    "entities": [
