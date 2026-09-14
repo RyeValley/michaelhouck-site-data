@@ -1,287 +1,287 @@
 {
- "updated": "2026-09-14T10:15:46+00:00",
- "items": [
-  {
-   "id": "2026-09-04-rename-newsletter-anyhouck-leverage-positioning",
-   "date": "2026-09-04",
-   "call": "Keep the newsletter named after the method, or rename it for what it is about?",
-   "choice": "Rename it. Hard Calls described the mechanism. The newsletter is about leverage: how one founder runs several companies he owns outright and still has a life. It is now Anyhouck, a play on my last name and the word anyhow, with one line under it: how to build leverage, make hard calls, and stay in control. Hard calls stays as the how. The site keeps my name.",
-   "stakes": "The name on 58,000 inboxes every Sunday",
-   "status": "made",
-   "reversible": "Yes. A name and a domain",
-   "entities": [
-    "hard-calls",
-    "rye-valley",
-    "michael-houck"
-   ]
-  },
-  {
-   "id": "2026-09-02-megaphone-studio-expansion-model",
-   "date": "2026-09-02",
-   "call": "What do we sell a client after the first 90 days are up?",
-   "choice": "Not a flat monthly retainer. We agree a new scope at day 60, once we can see what is working. An open-ended engagement has no natural checkpoint, so we built one in: every stage has an end date and a fresh decision to make.",
-   "stakes": "The recurring revenue model of the portfolio's largest business",
-   "status": "made",
-   "reversible": "Yes, with the next cohort",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2026-09-02-michael-houck-is-the-brand",
-   "date": "2026-09-02",
-   "call": "Do I build a brand around the work, or put my own name on it?",
-   "choice": "My name. I was about to spin my newsletter out as its own company, with its own site and logo, and stopped. Splitting it off would have meant building an audience twice.",
-   "stakes": "58,000 readers, a domain, and a rebrand I cannot afford to do twice",
-   "status": "made",
-   "reversible": "Yes. A page move, with a six-month check-in",
-   "entities": [
-    "hard-calls",
-    "hockey-stick",
-    "michael-houck"
-   ]
-  },
-  {
-   "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
-   "date": "2026-08-08",
-   "call": "Do I launch a fifth company, or make it part of one I already have?",
-   "choice": "Part of the one I have. I was eight days from launching a separate business, and two brands means two websites, two launches, and explaining twice why they are related. It became the paid tier of the newsletter instead.",
-   "stakes": "A launch scheduled eight days out, and a second brand to carry",
-   "status": "made",
-   "reversible": "Yes. It can spin back out if it earns its own buyer",
-   "entities": [
-    "hard-calls",
-    "hockey-stick"
-   ]
-  },
-  {
-   "id": "2026-08-08-lore-pricing-model",
-   "date": "2026-08-08",
-   "call": "How should I price a brand new business?",
-   "choice": "A one-time setup first, then a monthly fee, with video as an add-on. Clients who skip the setup leave the monthly plan early, so the copy pushes the setup hard.",
-   "stakes": "The pricing of a business at the start of its growth",
-   "status": "made",
-   "reversible": "Yes. Prices are a page edit; the structure is the commitment",
-   "entities": [
-    "lore"
-   ]
-  },
-  {
-   "id": "2026-07-31-newsletter-platform-split",
-   "date": "2026-07-31",
-   "call": "One newsletter a week, or one for each platform?",
-   "choice": "One per platform. The same issue was going to two audiences that want different things and serving neither. It doubles the work and tells me which one actually brings in readers who stay.",
-   "stakes": "A 5,000-reader newsletter that feeds one of the businesses",
-   "status": "made",
-   "reversible": "Yes",
-   "entities": [
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2026-07-29-company-brain-established",
-   "date": "2026-07-29",
-   "call": "Where should the company keep everything it knows?",
-   "choice": "Plain text files on a machine I own, with every meeting recorded and every decision written down. Not a wiki, not a database. Files an agent can search beat a smarter system I would not maintain.",
-   "stakes": "Every decision, meeting and number the company makes from here",
-   "status": "made",
-   "reversible": "Yes. Markdown exports anywhere",
-   "entities": [
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2026-07-22-megaphone-hold-vs-sell",
-   "date": "2026-07-22",
-   "call": "Sell my biggest business, or keep building it?",
-   "choice": "Keep it. The best offer was $1,128,000, which priced it as a service business. Running the accounts on our own software moves the margins toward software margins, and I would rather sell a better business later.",
-   "stakes": "Six figures a year, the largest business I own",
-   "status": "made",
-   "reversible": "Yes. A buyer can be re-approached",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2026-05-13-run-new-verticals-with-partners-and-agents-not-headcount",
-   "date": "2026-05-13",
-   "call": "Launching several new businesses at once: hire staff for each, or run them with partners and software?",
-   "choice": "Partners and software. Each new vertical gets an operating partner with equity and a shared set of AI agents and templated processes, with at most one more hire across all of them. I did not want to hire five or ten people between then and the fourth quarter to make it work.",
-   "stakes": "Headcount for five simultaneous launches held to roughly one",
-   "status": "made",
-   "reversible": "Yes. Hiring is always available",
-   "entities": [
-    "rye-valley",
-    "jolt",
-    "lore"
-   ]
-  },
-  {
-   "id": "2026-05-13-start-jolt-short-form-video-agency",
-   "date": "2026-05-13",
-   "call": "Start a short-form video company for founders as a separate business?",
-   "choice": "Yes. I started JOLT as its own company with an operating partner who holds equity, rather than adding video to what I already ran. Short-form video for founders is a different craft, a different buyer, and a different pace, and it deserved its own front door.",
-   "stakes": "The portfolio's fifth operating business",
-   "status": "made",
-   "reversible": "Yes. It could be folded into Megaphone",
-   "entities": [
-    "jolt"
-   ]
-  },
-  {
-   "id": "2026-05-07-lore-becomes-its-own-brand",
-   "date": "2026-05-07",
-   "call": "Keep the search work as one more service, or make it its own company?",
-   "choice": "Its own company. I bought the Lore domain, started the LLC, and put a landing page and a free automated site audit in front of it. The work had outgrown being a line item and deserved its own list, its own site, and its own name.",
-   "stakes": "The portfolio's fourth operating business",
-   "status": "made",
-   "reversible": "Yes. It could fold back into Megaphone",
-   "entities": [
-    "lore"
-   ]
-  },
-  {
-   "id": "2026-04-16-build-ai-content-agents-in-house",
-   "date": "2026-04-16",
-   "call": "Hire an outside AI firm to build our agents, or build them ourselves?",
-   "choice": "Build them ourselves. The firms I interviewed were selling one-off bots, and we were already running better ones on our own client work. I aimed the build at a $200 a month self-serve product, with the same agents underneath.",
-   "stakes": "The company's first software product since the platform, and the path to software margins",
-   "status": "made",
-   "reversible": "Yes. Vendors can still be brought in later",
-   "entities": [
-    "megaphone",
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2025-11-04-newsletter-as-front-door-to-a-portfolio-of-services",
-   "date": "2025-11-04",
-   "call": "What is the newsletter for: a media business on its own, or the front door to everything else we sell?",
-   "choice": "The front door. I organized the company around the newsletter as the place founders arrive, with each service behind it built the same way: a free giveaway, a low priced first purchase, then the monthly service. New service lines would come from partners under our brand before we ever hired for them.",
-   "stakes": "The operating model for every business in the portfolio",
-   "status": "made",
-   "reversible": "Partly. The structure is cheap to change, the brand promise is not",
-   "entities": [
-    "rye-valley",
-    "hard-calls",
-    "megaphone",
-    "lore"
-   ]
-  },
-  {
-   "id": "2025-07-29-youtube-is-the-2025-launch",
-   "date": "2025-07-29",
-   "call": "Every year the company had launched a new business. Launch another one in 2025, or make this the year of video?",
-   "choice": "I made the weekly founder interview series on YouTube the year's launch, backed by small in person dinners and retreats, and put reinvestment into the newsletter ahead of starting a fourth business. The plan was for that audience to carry a fund launch the following year.",
-   "stakes": "A year without a new business, traded for one owned channel",
-   "status": "made",
-   "reversible": "Yes. A new business could still start any quarter",
-   "entities": [
-    "hard-calls",
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2025-07-07-move-to-charleston",
-   "date": "2025-07-07",
-   "call": "Where should I, and therefore the company, be based?",
-   "choice": "I moved to Charleston on a three month trial in July 2025 with a decision point at the end of it. A month in I already thought I had made the right choice: an under the radar city without the problems I had watched pile up in the bigger ones. It became the company's home base.",
-   "stakes": "Where the founder lives and works, and the company's headquarters",
-   "status": "made",
-   "reversible": "Yes. It started as a three month pilot",
-   "entities": [
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2025-05-22-combine-megaphone-and-studio-into-one-brand",
-   "date": "2025-05-22",
-   "call": "Run the software and the done-for-you service as two brands, or one?",
-   "choice": "One brand. I put them on a single site so a buyer would see one business and a client would see one path to growing their account. Combined, with AI in the process, it also had a shot at a software multiple.",
-   "stakes": "How the company's largest business is understood and valued",
-   "status": "made",
-   "reversible": "Costly. Two brands would need to be rebuilt",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2025-05-13-reprice-megaphone-studio-4k-default-with-tiers",
-   "date": "2025-05-13",
-   "call": "Raise the default price on the core offer, or hold it?",
-   "choice": "Raise it, and give the range a shape. I moved the default up, bundled platform credits into it, and added a higher tier with strategy calls and a top tier with people assigned to the account. The range did the selling: once a prospect saw what the top tier included, the middle looked like the sensible choice.",
-   "stakes": "The price of the core offer",
-   "status": "made",
-   "reversible": "Yes. A price list",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2025-03-07-plan-for-ai-inbox-threat-to-newsletter",
-   "date": "2025-03-07",
-   "call": "If AI assistants start reading everyone's inbox and summarizing newsletters, what happens to a company built on a newsletter?",
-   "choice": "I decided not to bet the company on the newsletter. Keep growing it and taking sponsor revenue while it lasts, make the other businesses run on referrals and partnerships so they do not depend on it, and reinvest in video and social where the audience relationship survives.",
-   "stakes": "The newsletter every business in the company depended on for new customers",
-   "status": "made",
-   "reversible": "Yes. It is a posture, not a contract",
-   "entities": [
-    "rye-valley",
-    "hard-calls",
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2025-01-06-discontinue-podcast-go-weekly-long-form-youtube",
-   "date": "2025-01-06",
-   "call": "Keep the podcast going, or stop it and put that effort into long form video?",
-   "choice": "I discontinued the podcast and committed to one long form video a week instead. The podcast had been running since October and was not moving anything; video packaging and topics could, and all three of us spent a week researching outlier videos in our niche to prove it.",
-   "stakes": "The company's main audience-building bet for 2025",
-   "status": "made",
-   "reversible": "Yes. The feed can be restarted",
-   "entities": [
-    "hard-calls",
-    "rye-valley"
-   ]
-  },
-  {
-   "id": "2025-01-06-megaphone-2025-growth-channels-and-repositioning",
-   "date": "2025-01-06",
-   "call": "Where should the software business put its 2025 growth budget, and what should it call itself?",
-   "choice": "I picked product-led growth, our own newsletter, and paid social ads as the channels, kept affiliates and podcasts as small side bets, and ruled out cold email entirely. At the same time I repositioned Megaphone from an engagement network to a creator partnership platform, with paid campaigns as the new core product.",
-   "stakes": "A year of growth budget and the product's public identity",
-   "status": "made",
-   "reversible": "Yes. Channel budgets are re-cut quarterly",
-   "entities": [
-    "megaphone"
-   ]
-  },
-  {
-   "id": "2024-11-12-start-newsletter-growth-service-arm",
-   "date": "2024-11-12",
-   "call": "Add a newsletter growth service, and does it belong inside Megaphone or on its own?",
-   "choice": "Inside Megaphone. A friend had built an email growth system, we piloted it on my own newsletter, it worked, and within a week we had sold it to other publishers. I kept it as a Megaphone service rather than standing it up as its own company, because it had not been proven out yet. It never got there, and seven months later I moved our clients off it and wound it down.",
-   "stakes": "A new service line, sold in its first week",
-   "status": "reversed",
-   "reversible": "Yes, and it was. Wound down June 2025",
-   "entities": [
-    "rye-valley",
-    "hard-calls"
-   ]
-  },
-  {
-   "id": "2024-10-11-run-megaphone-flat-newsletter-carries-profit",
-   "date": "2024-10-11",
-   "call": "Should the software business make a profit, or should the newsletter carry the company while it grows?",
-   "choice": "I ran Megaphone at breakeven on purpose and let newsletter sponsorships be the company's profit. Every dollar of sponsorship was pure margin, and it bought the software time to find its footing.",
-   "stakes": "The whole company's 2024 profit rested on one newsletter's sponsor revenue",
-   "status": "made",
-   "reversible": "Yes. A budget line, changed any quarter",
-   "entities": [
-    "rye-valley",
-    "megaphone",
-    "hard-calls"
-   ]
-  }
- ]
+  "updated": "2026-09-14T10:15:46+00:00",
+  "items": [
+    {
+      "id": "2026-09-04-rename-newsletter-anyhouck-leverage-positioning",
+      "date": "2026-09-04",
+      "call": "Keep the newsletter named Founding Journey, or rename it for what it is about?",
+      "choice": "Rename it. Founding Journey described where I was, not what the writing is for. It is now Anyhouck, a play on my last name and the word anyhow, with one line under it: how to build leverage, make hard calls, and stay in control. The site keeps my name.",
+      "stakes": "The name on 58,000 inboxes every Sunday",
+      "status": "made",
+      "reversible": "Yes. A name and a domain",
+      "entities": [
+        "hard-calls",
+        "rye-valley",
+        "michael-houck"
+      ]
+    },
+    {
+      "id": "2026-09-02-megaphone-studio-expansion-model",
+      "date": "2026-09-02",
+      "call": "What do we sell a client after the first 90 days are up?",
+      "choice": "Not a flat monthly retainer. We agree a new scope at day 60, once we can see what is working. An open-ended engagement has no natural checkpoint, so we built one in: every stage has an end date and a fresh decision to make.",
+      "stakes": "The recurring revenue model of the portfolio's largest business",
+      "status": "made",
+      "reversible": "Yes, with the next cohort",
+      "entities": [
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2026-09-02-michael-houck-is-the-brand",
+      "date": "2026-09-02",
+      "call": "Do I build a brand around the work, or put my own name on it?",
+      "choice": "My name. I was about to spin my newsletter out as its own company, with its own site and logo, and stopped. Splitting it off would have meant building an audience twice.",
+      "stakes": "58,000 readers, a domain, and a rebrand I cannot afford to do twice",
+      "status": "made",
+      "reversible": "Yes. A page move, with a six-month check-in",
+      "entities": [
+        "hard-calls",
+        "hockey-stick",
+        "michael-houck"
+      ]
+    },
+    {
+      "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
+      "date": "2026-08-08",
+      "call": "Do I launch a fifth company, or make it part of one I already have?",
+      "choice": "Part of the one I have. I was eight days from launching a separate business, and two brands means two websites, two launches, and explaining twice why they are related. It became the paid tier of the newsletter instead.",
+      "stakes": "A launch scheduled eight days out, and a second brand to carry",
+      "status": "made",
+      "reversible": "Yes. It can spin back out if it earns its own buyer",
+      "entities": [
+        "hard-calls",
+        "hockey-stick"
+      ]
+    },
+    {
+      "id": "2026-08-08-lore-pricing-model",
+      "date": "2026-08-08",
+      "call": "How should I price a brand new business?",
+      "choice": "A one-time setup first, then a monthly fee, with video as an add-on. Clients who skip the setup leave the monthly plan early, so the copy pushes the setup hard.",
+      "stakes": "The pricing of a business at the start of its growth",
+      "status": "made",
+      "reversible": "Yes. Prices are a page edit; the structure is the commitment",
+      "entities": [
+        "lore"
+      ]
+    },
+    {
+      "id": "2026-07-31-newsletter-platform-split",
+      "date": "2026-07-31",
+      "call": "One newsletter a week, or one for each platform?",
+      "choice": "One per platform. The same issue was going to two audiences that want different things and serving neither. It doubles the work and tells me which one actually brings in readers who stay.",
+      "stakes": "A 5,000-reader newsletter that feeds one of the businesses",
+      "status": "made",
+      "reversible": "Yes",
+      "entities": [
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2026-07-29-company-brain-established",
+      "date": "2026-07-29",
+      "call": "Where should the company keep everything it knows?",
+      "choice": "Plain text files on a machine I own, with every meeting recorded and every decision written down. Not a wiki, not a database. Files an agent can search beat a smarter system I would not maintain.",
+      "stakes": "Every decision, meeting and number the company makes from here",
+      "status": "made",
+      "reversible": "Yes. Markdown exports anywhere",
+      "entities": [
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2026-07-22-megaphone-hold-vs-sell",
+      "date": "2026-07-22",
+      "call": "Sell my biggest business, or keep building it?",
+      "choice": "Keep it. The best offer was $1,128,000, which priced it as a service business. Running the accounts on our own software moves the margins toward software margins, and I would rather sell a better business later.",
+      "stakes": "Six figures a year, the largest business I own",
+      "status": "made",
+      "reversible": "Yes. A buyer can be re-approached",
+      "entities": [
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2026-05-13-run-new-verticals-with-partners-and-agents-not-headcount",
+      "date": "2026-05-13",
+      "call": "Launching several new businesses at once: hire staff for each, or run them with partners and software?",
+      "choice": "Partners and software. Each new vertical gets an operating partner with equity and a shared set of AI agents and templated processes, with at most one more hire across all of them. I did not want to hire five or ten people between then and the fourth quarter to make it work.",
+      "stakes": "Headcount for five simultaneous launches held to roughly one",
+      "status": "made",
+      "reversible": "Yes. Hiring is always available",
+      "entities": [
+        "rye-valley",
+        "jolt",
+        "lore"
+      ]
+    },
+    {
+      "id": "2026-05-13-start-jolt-short-form-video-agency",
+      "date": "2026-05-13",
+      "call": "Start a short-form video company for founders as a separate business?",
+      "choice": "Yes. I started JOLT as its own company with an operating partner who holds equity, rather than adding video to what I already ran. Short-form video for founders is a different craft, a different buyer, and a different pace, and it deserved its own front door.",
+      "stakes": "The portfolio's fifth operating business",
+      "status": "made",
+      "reversible": "Yes. It could be folded into Megaphone",
+      "entities": [
+        "jolt"
+      ]
+    },
+    {
+      "id": "2026-05-07-lore-becomes-its-own-brand",
+      "date": "2026-05-07",
+      "call": "Keep the search work as one more service, or make it its own company?",
+      "choice": "Its own company. I bought the Lore domain, started the LLC, and put a landing page and a free automated site audit in front of it. The work had outgrown being a line item and deserved its own list, its own site, and its own name.",
+      "stakes": "The portfolio's fourth operating business",
+      "status": "made",
+      "reversible": "Yes. It could fold back into Megaphone",
+      "entities": [
+        "lore"
+      ]
+    },
+    {
+      "id": "2026-04-16-build-ai-content-agents-in-house",
+      "date": "2026-04-16",
+      "call": "Hire an outside AI firm to build our agents, or build them ourselves?",
+      "choice": "Build them ourselves. The firms I interviewed were selling one-off bots, and we were already running better ones on our own client work. I aimed the build at a $200 a month self-serve product, with the same agents underneath.",
+      "stakes": "The company's first software product since the platform, and the path to software margins",
+      "status": "made",
+      "reversible": "Yes. Vendors can still be brought in later",
+      "entities": [
+        "megaphone",
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2025-11-04-newsletter-as-front-door-to-a-portfolio-of-services",
+      "date": "2025-11-04",
+      "call": "What is the newsletter for: a media business on its own, or the front door to everything else we sell?",
+      "choice": "The front door. I organized the company around the newsletter as the place founders arrive, with each service behind it built the same way: a free giveaway, a low priced first purchase, then the monthly service. New service lines would come from partners under our brand before we ever hired for them.",
+      "stakes": "The operating model for every business in the portfolio",
+      "status": "made",
+      "reversible": "Partly. The structure is cheap to change, the brand promise is not",
+      "entities": [
+        "rye-valley",
+        "hard-calls",
+        "megaphone",
+        "lore"
+      ]
+    },
+    {
+      "id": "2025-07-29-youtube-is-the-2025-launch",
+      "date": "2025-07-29",
+      "call": "Every year the company had launched a new business. Launch another one in 2025, or make this the year of video?",
+      "choice": "I made the weekly founder interview series on YouTube the year's launch, backed by small in person dinners and retreats, and put reinvestment into the newsletter ahead of starting a fourth business. The plan was for that audience to carry a fund launch the following year.",
+      "stakes": "A year without a new business, traded for one owned channel",
+      "status": "made",
+      "reversible": "Yes. A new business could still start any quarter",
+      "entities": [
+        "hard-calls",
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2025-07-07-move-to-charleston",
+      "date": "2025-07-07",
+      "call": "Where should I, and therefore the company, be based?",
+      "choice": "I moved to Charleston on a three month trial in July 2025 with a decision point at the end of it. A month in I already thought I had made the right choice: an under the radar city without the problems I had watched pile up in the bigger ones. It became the company's home base.",
+      "stakes": "Where the founder lives and works, and the company's headquarters",
+      "status": "made",
+      "reversible": "Yes. It started as a three month pilot",
+      "entities": [
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2025-05-22-combine-megaphone-and-studio-into-one-brand",
+      "date": "2025-05-22",
+      "call": "Run the software and the done-for-you service as two brands, or one?",
+      "choice": "One brand. I put them on a single site so a buyer would see one business and a client would see one path to growing their account. Combined, with AI in the process, it also had a shot at a software multiple.",
+      "stakes": "How the company's largest business is understood and valued",
+      "status": "made",
+      "reversible": "Costly. Two brands would need to be rebuilt",
+      "entities": [
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2025-05-13-reprice-megaphone-studio-4k-default-with-tiers",
+      "date": "2025-05-13",
+      "call": "Raise the default price on the core offer, or hold it?",
+      "choice": "Raise it, and give the range a shape. I moved the default up, bundled platform credits into it, and added a higher tier with strategy calls and a top tier with people assigned to the account. The range did the selling: once a prospect saw what the top tier included, the middle looked like the sensible choice.",
+      "stakes": "The price of the core offer",
+      "status": "made",
+      "reversible": "Yes. A price list",
+      "entities": [
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2025-03-07-plan-for-ai-inbox-threat-to-newsletter",
+      "date": "2025-03-07",
+      "call": "If AI assistants start reading everyone's inbox and summarizing newsletters, what happens to a company built on a newsletter?",
+      "choice": "I decided not to bet the company on the newsletter. Keep growing it and taking sponsor revenue while it lasts, make the other businesses run on referrals and partnerships so they do not depend on it, and reinvest in video and social where the audience relationship survives.",
+      "stakes": "The newsletter every business in the company depended on for new customers",
+      "status": "made",
+      "reversible": "Yes. It is a posture, not a contract",
+      "entities": [
+        "rye-valley",
+        "hard-calls",
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2025-01-06-discontinue-podcast-go-weekly-long-form-youtube",
+      "date": "2025-01-06",
+      "call": "Keep the podcast going, or stop it and put that effort into long form video?",
+      "choice": "I discontinued the podcast and committed to one long form video a week instead. The podcast had been running since October and was not moving anything; video packaging and topics could, and all three of us spent a week researching outlier videos in our niche to prove it.",
+      "stakes": "The company's main audience-building bet for 2025",
+      "status": "made",
+      "reversible": "Yes. The feed can be restarted",
+      "entities": [
+        "hard-calls",
+        "rye-valley"
+      ]
+    },
+    {
+      "id": "2025-01-06-megaphone-2025-growth-channels-and-repositioning",
+      "date": "2025-01-06",
+      "call": "Where should the software business put its 2025 growth budget, and what should it call itself?",
+      "choice": "I picked product-led growth, our own newsletter, and paid social ads as the channels, kept affiliates and podcasts as small side bets, and ruled out cold email entirely. At the same time I repositioned Megaphone from an engagement network to a creator partnership platform, with paid campaigns as the new core product.",
+      "stakes": "A year of growth budget and the product's public identity",
+      "status": "made",
+      "reversible": "Yes. Channel budgets are re-cut quarterly",
+      "entities": [
+        "megaphone"
+      ]
+    },
+    {
+      "id": "2024-11-12-start-newsletter-growth-service-arm",
+      "date": "2024-11-12",
+      "call": "Add a newsletter growth service, and does it belong inside Megaphone or on its own?",
+      "choice": "Inside Megaphone. A friend had built an email growth system, we piloted it on my own newsletter, it worked, and within a week we had sold it to other publishers. I kept it as a Megaphone service rather than standing it up as its own company, because it had not been proven out yet. It never got there, and seven months later I moved our clients off it and wound it down.",
+      "stakes": "A new service line, sold in its first week",
+      "status": "reversed",
+      "reversible": "Yes, and it was. Wound down June 2025",
+      "entities": [
+        "rye-valley",
+        "hard-calls"
+      ]
+    },
+    {
+      "id": "2024-10-11-run-megaphone-flat-newsletter-carries-profit",
+      "date": "2024-10-11",
+      "call": "Should the software business make a profit, or should the newsletter carry the company while it grows?",
+      "choice": "I ran Megaphone at breakeven on purpose and let newsletter sponsorships be the company's profit. Every dollar of sponsorship was pure margin, and it bought the software time to find its footing.",
+      "stakes": "The whole company's 2024 profit rested on one newsletter's sponsor revenue",
+      "status": "made",
+      "reversible": "Yes. A budget line, changed any quarter",
+      "entities": [
+        "rye-valley",
+        "megaphone",
+        "hard-calls"
+      ]
+    }
+  ]
 }
