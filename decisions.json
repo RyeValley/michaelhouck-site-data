@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:15:44+00:00",
+ "updated": "2026-10-12T18:40:27+00:00",
  "items": [
   {
    "id": "2026-09-04-rename-newsletter-anyhouck-leverage-positioning",
@@ -39,19 +39,6 @@
     "hard-calls",
     "hockey-stick",
     "michael-houck"
-   ]
-  },
-  {
-   "id": "2026-08-08-hockey-stick-folded-into-hard-calls",
-   "date": "2026-08-08",
-   "call": "Do I launch a fifth company, or make it part of one I already have?",
-   "choice": "Part of the one I have. I was eight days from launching a separate business, and two brands means two websites, two launches, and explaining twice why they are related. It became the paid tier of the newsletter instead.",
-   "stakes": "A launch scheduled eight days out, and a second brand to carry",
-   "status": "made",
-   "reversible": "Yes. It can spin back out if it earns its own buyer",
-   "entities": [
-    "hard-calls",
-    "hockey-stick"
    ]
   },
   {
