@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:29:22+00:00",
+ "updated": "2026-10-16T15:36:01+00:00",
  "items": [
   {
    "id": "2026-09-08-when-a-client-starts-comparing-us-to-a-single-hire-defend-th",
@@ -543,7 +543,7 @@
    "id": "2026-02-15-our-open-rates-fell-off-a-cliff-keep-sending-from-the-same-a",
    "date": "2026-02-15",
    "call": "Our open rates fell off a cliff. Keep sending from the same address, or move?",
-   "choice": "Move. I switched our newsletter to a dedicated sending subdomain to fix deliverability, knowing it'd take a few weeks to warm up. Open rates recovered gradually over the following month.",
+   "choice": "Move. I switched the newsletter to a dedicated sending subdomain to fix deliverability, accepting a few weeks of lower opens while it warmed up. Patching the old address would have kept the problem.",
    "stakes": "How the business runs day to day",
    "status": "made",
    "reversible": "Yes",
