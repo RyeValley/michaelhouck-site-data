@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-16T10:15:57+00:00",
+ "updated": "2026-10-16T15:29:22+00:00",
  "items": [
+  {
+   "id": "2026-09-08-when-a-client-starts-comparing-us-to-a-single-hire-defend-th",
+   "date": "2026-09-08",
+   "call": "When a client starts comparing us to a single hire, defend the old plan or change it?",
+   "choice": "Change it. I moved them onto our newer offer, which shows the systems behind the work: separate review steps, daily checks, a record of where every link came from. Side by side with one hire, that's the difference worth paying for.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "lore",
+    "rye-valley"
+   ]
+  },
   {
    "id": "2026-09-04-rename-newsletter-anyhouck-leverage-positioning",
    "date": "2026-09-04",
@@ -42,6 +55,106 @@
    ]
   },
   {
+   "id": "2026-08-24-rebuild-our-founder-tiktok-course-around-our-own-study-of-13",
+   "date": "2026-08-24",
+   "call": "Rebuild our founder TikTok course around our own study of 137,000 founder videos?",
+   "choice": "Yes, a full rewrite. The study showed our old bar for a good video was really the top 6%, so I reset every benchmark, added five modules from the data, and rebuilt the weekly plan around testing formats.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt"
+   ]
+  },
+  {
+   "id": "2026-08-21-how-do-you-help-a-creator-who-writes-best-alone-but-needs-to",
+   "date": "2026-08-21",
+   "call": "How do you help a creator who writes best alone but needs to make more?",
+   "choice": "Give him a drafting partner, not a writer. I trained an AI tool on his best-performing scripts so it drafts new ones for him to cut, rewrite or approve. He keeps the pen and gets the volume.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt"
+   ]
+  },
+  {
+   "id": "2026-08-21-keep-checking-by-hand-what-s-working-on-the-accounts-we-watc",
+   "date": "2026-08-21",
+   "call": "Keep checking by hand what's working on the accounts we watch, or automate it?",
+   "choice": "Automate it. A weekly scan now flags real outliers across every account we follow and drops wins nobody can copy, like a press hit. A manual check finds whatever you happen to notice.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-16-how-do-we-earn-links-from-respected-publications-without-a-p",
+   "date": "2026-08-16",
+   "call": "How do we earn links from respected publications without a publicist?",
+   "choice": "Answer journalists directly. I signed up as an expert source on the request platforms, and a daily scan finds the queries that fit, drafts an answer in my voice and waits for my approval before anything goes out.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt"
+   ]
+  },
+  {
+   "id": "2026-08-14-let-people-delete-old-drafts-or-archive-them",
+   "date": "2026-08-14",
+   "call": "Let people delete old drafts, or archive them?",
+   "choice": "Archive. Used and dead drafts hide behind a toggle so the drafting desk stays clean and searchable, but nothing is ever lost. Deleting saves a little clutter and costs you the history you'll want later.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-12-tell-the-ad-platform-about-every-signup-or-only-the-good-one",
+   "date": "2026-08-12",
+   "call": "Tell the ad platform about every signup, or only the good ones?",
+   "choice": "Only the good ones. Our funnels now report a conversion only when someone looks like a real fit for what we sell. The ads learn from whatever you count, so counting everyone teaches them to find anyone.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-11-let-our-ai-agent-send-clients-their-updates-or-keep-a-person",
+   "date": "2026-08-11",
+   "call": "Let our AI agent send clients their updates, or keep a person on it?",
+   "choice": "Both, by client. Half get their updates straight from the agent. For the rest, I send them myself until I've asked on a call which they prefer. Some clients want the person, and that's their call to make.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-09-when-finished-work-stalls-in-review-over-process-hold-it-or",
+   "date": "2026-08-09",
+   "call": "When finished work stalls in review over process, hold it or ship it?",
+   "choice": "Ship it. I reviewed the stalled work and the code was solid; what failed was paperwork like naming and task links. I fixed the paperwork myself so review could pass, rather than send good work back to the start.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
    "id": "2026-08-08-lore-pricing-model",
    "date": "2026-08-08",
    "call": "How should I price a brand new business?",
@@ -51,6 +164,59 @@
    "reversible": "Yes. Prices are a page edit; the structure is the commitment",
    "entities": [
     "lore"
+   ]
+  },
+  {
+   "id": "2026-08-07-fold-the-business-that-installs-founders-knowledge-systems-i",
+   "date": "2026-08-07",
+   "call": "Fold the business that installs founders' knowledge systems into my newsletter's paid offer?",
+   "choice": "I folded it in and pushed a separate expert product back, planning one stronger launch. A month later I reversed it. The install work had buyers of its own, so it spun back out with a partner running it.",
+   "stakes": "How the business runs day to day",
+   "status": "reversed",
+   "reversible": "Yes",
+   "entities": [
+    "hard-calls",
+    "hockey-stick",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-05-send-new-sales-call-bookings-to-me-or-to-each-business-s-cha",
+   "date": "2026-08-05",
+   "call": "Send new sales-call bookings to me, or to each business's channel?",
+   "choice": "Each business's channel. When bookings landed in my messages, I became the relay. Sending them straight to the people running each business means nobody waits on me to forward anything.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt",
+    "lore",
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-03-write-an-angel-check-into-a-promising-pre-seed-marketplace",
+   "date": "2026-08-03",
+   "call": "Write an angel check into a promising pre-seed marketplace?",
+   "choice": "Not yet. They'd found a real pain in selling one-of-a-kind inventory, which the big platforms handle badly. But they were spread across too many categories, so I told them I'd want to see them pick one first.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-08-02-move-the-company-onto-a-self-hosted-ai-agent-platform-built",
+   "date": "2026-08-02",
+   "call": "Move the company onto a self-hosted AI agent platform built for groups?",
+   "choice": "Not yet. What we run today already covers most of it, and maintaining our own servers isn't worth it at our size. I bookmarked it to revisit once there are five or six of us.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
    ]
   },
   {
@@ -78,6 +244,86 @@
    ]
   },
   {
+   "id": "2026-07-28-one-newsletter-referral-account-for-every-brand-or-one-each",
+   "date": "2026-07-28",
+   "call": "One newsletter referral account for every brand, or one each?",
+   "choice": "One each. Every newsletter gets its own identity and a signup flow in its own colors. Sharing an account would've saved an afternoon of setup and made three brands look like one company.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "jolt",
+    "lore"
+   ]
+  },
+  {
+   "id": "2026-07-28-test-our-new-ai-comment-system-on-a-client-s-account-or-our",
+   "date": "2026-07-28",
+   "call": "Test our new AI comment system on a client's account, or our own?",
+   "choice": "Our own first. I ran it on one of our accounts to check the quality in a voice we control, then moved to client accounts. A client account is the wrong place to find out it isn't ready.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-27-how-should-a-short-form-video-company-describe-what-it-does",
+   "date": "2026-07-27",
+   "call": "How should a short-form video company describe what it does for founders?",
+   "choice": "As a forward deployed creator: someone embedded in the founder's business who makes content from inside it. That's closer to what clients actually get than a production shop, so I rewrote the site and the pitch around it.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-26-a-separate-ad-account-for-every-brand-or-one-shared",
+   "date": "2026-07-26",
+   "call": "A separate ad account for every brand, or one shared?",
+   "choice": "One shared account, with a separate page for each brand. Every new account has to relearn who converts, and that costs real money. One account keeps the learning, and each brand still runs its own campaigns.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-25-build-sales-funnels-for-four-businesses-at-once-or-one-at-a",
+   "date": "2026-07-25",
+   "call": "Build sales funnels for four businesses at once, or one at a time?",
+   "choice": "One at a time, starting with the business that needed it most. The first build taught us the pattern, so each one after it went faster than four half-finished builds running in parallel would have.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt",
+    "lore",
+    "hockey-stick",
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2026-07-24-build-a-company-that-helps-failed-startups-wind-down-and-sel",
+   "date": "2026-07-24",
+   "call": "Build a company that helps failed startups wind down and sell their data?",
+   "choice": "No. It's a good idea, but it isn't a venture-scale business and it's heavy on account management. I'd rather test it through a partner first than build and staff it ourselves.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "hard-calls",
+    "rye-valley"
+   ]
+  },
+  {
    "id": "2026-07-22-megaphone-hold-vs-sell",
    "date": "2026-07-22",
    "call": "Sell my biggest business, or keep building it?",
@@ -87,6 +333,146 @@
    "reversible": "Yes. A buyer can be re-approached",
    "entities": [
     "megaphone"
+   ]
+  },
+  {
+   "id": "2026-07-13-start-a-new-engagement-account-at-full-volume-or-ramp-up",
+   "date": "2026-07-13",
+   "call": "Start a new engagement account at full volume, or ramp up?",
+   "choice": "Ramp up. Each account starts at a modest number of thoughtful comments a day and grows over the first two weeks as the quality holds. Volume you can't keep thoughtful does more harm than no volume at all.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-07-09-where-should-a-site-put-its-free-guides-and-tools",
+   "date": "2026-07-09",
+   "call": "Where should a site put its free guides and tools?",
+   "choice": "In one place. I added a resources menu to the header holding the playbook, the starter kit and the newsletter, and moved use cases into the main navigation. Scattered links get found by nobody.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt"
+   ]
+  },
+  {
+   "id": "2026-06-28-make-holdstead-my-word-for-a-founder-running-several-compani",
+   "date": "2026-06-28",
+   "call": "Make holdstead, my word for a founder running several companies he owns, the company's positioning?",
+   "choice": "I coined it, holding company plus homestead, and adopted it as our positioning. It stayed an idea rather than a name. The newsletter later took leverage as its frame, and holdstead became a word I use, not a title.",
+   "stakes": "How the business runs day to day",
+   "status": "reversed",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-06-20-redesign-just-the-website-or-the-whole-brand-first",
+   "date": "2026-06-20",
+   "call": "Redesign just the website, or the whole brand first?",
+   "choice": "The whole brand first: logo, mascot, visual language. With a real system to work from, I could build and change the site myself with AI tools instead of paying a designer for every page.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "lore",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-06-17-when-a-client-s-budget-halves-mid-reorg-pause-the-work-or-ke",
+   "date": "2026-06-17",
+   "call": "When a client's budget halves mid-reorg, pause the work or keep going?",
+   "choice": "Keep going, lighter. When a client's budget halved mid-reorg, I moved them to a smaller plan with advisory support rather than losing them. Momentum is cheaper to keep than to restart, and they planned to speed back up in the fall.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2026-06-14-keep-separate-email-accounts-for-every-company-or-consolidat",
+   "date": "2026-06-14",
+   "call": "Keep separate email accounts for every company, or consolidate?",
+   "choice": "Consolidate. I shut down the redundant accounts and moved everything under fewer addresses. Most of the seats we were paying for weren't being used by anyone.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley",
+    "megaphone",
+    "lore"
+   ]
+  },
+  {
+   "id": "2026-06-14-which-tool-should-record-our-meetings",
+   "date": "2026-06-14",
+   "call": "Which tool should record our meetings?",
+   "choice": "I switched meeting recorders. Every kickoff call is what our agents learn a new client from, so the transcript isn't a nice-to-have. I picked the tool that fit how we work, not the one with the longest feature list.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-06-08-keep-ad-budget-spread-across-channels-or-move-it-to-the-winn",
+   "date": "2026-06-08",
+   "call": "Keep ad budget spread across channels, or move it to the winner?",
+   "choice": "Move it. One channel was bringing in signups for less than the rest and growing faster, so I shifted budget into it. Spreading money evenly across channels funds the losers.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-06-05-write-100-ai-skills-for-founders-by-hand-or-let-ai-write-the",
+   "date": "2026-06-05",
+   "call": "Write 100 AI skills for founders by hand, or let AI write them?",
+   "choice": "Both. AI wrote the first drafts, then we reviewed and reworked every one, poking holes until each was worth using. Fast and unreviewed would have given us 100 things nobody used twice.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley",
+    "megaphone",
+    "jolt",
+    "lore"
+   ]
+  },
+  {
+   "id": "2026-06-02-ask-new-subscribers-qualifying-questions-or-let-everyone-str",
+   "date": "2026-06-02",
+   "call": "Ask new subscribers qualifying questions, or let everyone straight in?",
+   "choice": "I pulled the survey to get volume first, then put it back two weeks later, after signup. Asking once someone has joined costs nothing in signups and tells us who's worth a call.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-05-13-pick-a-short-domain-or-one-that-spells-the-brand-exactly",
+   "date": "2026-05-13",
+   "call": "Pick a short domain, or one that spells the brand exactly?",
+   "choice": "The exact brand, joltexclamationpoint.com. It's long and easy to misspell out loud, but nearly every visitor arrives through a link, so almost nobody types it.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "jolt"
    ]
   },
   {
@@ -141,6 +527,55 @@
    ]
   },
   {
+   "id": "2026-04-13-sell-cold-traffic-a-subscription-or-a-one-time-product",
+   "date": "2026-04-13",
+   "call": "Sell cold traffic a subscription or a one-time product?",
+   "choice": "A one-time product. Strangers buy once far more readily than they subscribe, so the first purchase can pay back the ad that found them. The bigger offers come after they've seen the work.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-02-15-our-open-rates-fell-off-a-cliff-keep-sending-from-the-same-a",
+   "date": "2026-02-15",
+   "call": "Our open rates fell off a cliff. Keep sending from the same address, or move?",
+   "choice": "Move. I switched our newsletter to a dedicated sending subdomain to fix deliverability, knowing it'd take a few weeks to warm up. Open rates recovered gradually over the following month.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2026-02-02-accept-a-32-open-rate-as-normal-for-paid-subscribers-or-trea",
+   "date": "2026-02-02",
+   "call": "Accept a 32% open rate as normal for paid subscribers, or treat it as a problem?",
+   "choice": "A problem. I set 40 to 50% as the target for paid acquisition and started testing new creatives and lead magnets against it. Calling a weak number normal is how it stays weak.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2025-11-25-do-the-legwork-to-gather-our-old-fund-s-portfolio-results-ou",
+   "date": "2025-11-25",
+   "call": "Do the legwork to gather our old fund's portfolio results ourselves?",
+   "choice": "Yes. I ran down the latest fundraising and growth numbers from more than 50 founders and organized them for the fund. Waiting for that data to arrive on its own would have stalled the raise.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
    "id": "2025-11-04-newsletter-as-front-door-to-a-portfolio-of-services",
    "date": "2025-11-04",
    "call": "What is the newsletter for: a media business on its own, or the front door to everything else we sell?",
@@ -153,6 +588,18 @@
     "hard-calls",
     "megaphone",
     "lore"
+   ]
+  },
+  {
+   "id": "2025-09-01-bundle-software-deals-into-our-membership",
+   "date": "2025-09-01",
+   "call": "Bundle software deals into our membership?",
+   "choice": "Yes. A competitor had shown that a pass of discounts on tools founders already buy makes a subscription worth keeping, and it doesn't take us building anything. Ours lives inside the membership as a perks page.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
    ]
   },
   {
@@ -176,6 +623,30 @@
    "stakes": "Where the founder lives and works, and the company's headquarters",
    "status": "made",
    "reversible": "Yes. It started as a three month pilot",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2025-06-16-let-everyone-on-the-platform-buy-reposts-and-quotes-or-only",
+   "date": "2025-06-16",
+   "call": "Let everyone on the platform buy reposts and quotes, or only some users?",
+   "choice": "Only the creators being paid in a campaign. When anyone could trade reposts, they turned into low-value swaps. Tied to a paid campaign, a repost is a real endorsement.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2025-06-04-someone-upgrades-uses-the-bigger-plan-then-asks-to-downgrade",
+   "date": "2025-06-04",
+   "call": "Someone upgrades, uses the bigger plan, then asks to downgrade. What's fair?",
+   "choice": "Refund the difference for the rest of the month and make sure the bigger plan doesn't renew. They'd used it, so a full refund wasn't owed, and leaving them stuck on it would have been worse.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
    "entities": [
     "rye-valley"
    ]
@@ -205,6 +676,54 @@
    ]
   },
   {
+   "id": "2025-04-02-show-users-how-interested-a-lead-is-or-which-post-brought-th",
+   "date": "2025-04-02",
+   "call": "Show users how interested a lead is, or which post brought them in?",
+   "choice": "Both, in separate columns. One tells you how close someone is to buying, the other which post caught them. Whose account the post ran on didn't matter to anyone, so I left that out.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2025-03-31-make-users-prepay-into-a-wallet-or-charge-a-simple-subscript",
+   "date": "2025-03-31",
+   "call": "Make users prepay into a wallet, or charge a simple subscription?",
+   "choice": "A subscription, priced by how many posts you can share a day. Prepaid wallets made people do math before they could do anything. Dropping it took a lot of complexity out of the product.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2025-03-24-the-redesign-was-close-to-done-but-wasn-t-saying-what-we-do",
+   "date": "2025-03-24",
+   "call": "The redesign was close to done but wasn't saying what we do. Ship it, or start over?",
+   "choice": "Start over. It didn't say the one thing that mattered, that we help businesses get leads by partnering with creators. Shipping something that missed would have cost us more than the weeks we lost.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2025-03-14-make-users-choose-how-many-accounts-they-need-when-the-price",
+   "date": "2025-03-14",
+   "call": "Make users choose how many accounts they need when the price doesn't change?",
+   "choice": "No. If the price is the same either way, the step goes. I kept it only where we charge per account. Every question that doesn't change the answer is one more place to quit.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
    "id": "2025-03-07-plan-for-ai-inbox-threat-to-newsletter",
    "date": "2025-03-07",
    "call": "If AI assistants start reading everyone's inbox and summarizing newsletters, what happens to a company built on a newsletter?",
@@ -216,6 +735,18 @@
     "rye-valley",
     "hard-calls",
     "megaphone"
+   ]
+  },
+  {
+   "id": "2025-02-03-lead-the-pricing-page-with-the-feature-that-sounds-best-or-t",
+   "date": "2025-02-03",
+   "call": "Lead the pricing page with the feature that sounds best, or the one that's accurate?",
+   "choice": "The accurate one. I changed unlimited accounts to pay per account, said plainly which plan is limited to one, and moved it down the list. A customer who feels misled on the pricing page doesn't stay.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
    ]
   },
   {
@@ -232,6 +763,30 @@
    ]
   },
   {
+   "id": "2025-01-06-hand-our-video-to-an-ai-content-service-or-keep-testing-form",
+   "date": "2025-01-06",
+   "call": "Hand our video to an AI content service, or keep testing formats ourselves?",
+   "choice": "Keep testing ourselves. We hadn't found what worked yet, and automating before you know that just makes more of the wrong thing. AI production made sense once we had a format and a following.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2025-01-06-make-users-save-their-settings-or-keep-the-last-ones-automat",
+   "date": "2025-01-06",
+   "call": "Make users save their settings, or keep the last ones automatically?",
+   "choice": "Keep them automatically. I made the last settings the default for the next one instead of building a save button. Each extra choice is a reason not to finish.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
    "id": "2025-01-06-megaphone-2025-growth-channels-and-repositioning",
    "date": "2025-01-06",
    "call": "Where should the software business put its 2025 growth budget, and what should it call itself?",
@@ -241,6 +796,57 @@
    "reversible": "Yes. Channel budgets are re-cut quarterly",
    "entities": [
     "megaphone"
+   ]
+  },
+  {
+   "id": "2024-12-20-hit-the-site-launch-date-or-wait-for-custom-visuals-on-every",
+   "date": "2024-12-20",
+   "call": "Hit the site launch date, or wait for custom visuals on every page?",
+   "choice": "Hit the date. I used found images and templates in place of custom art, built the last five designs in parallel, and pushed the nice-to-haves into January. A launch that keeps slipping stops being a launch.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-12-13-let-customers-set-any-campaign-budget-or-enforce-a-minimum",
+   "date": "2024-12-13",
+   "call": "Let customers set any campaign budget, or enforce a minimum?",
+   "choice": "Enforce a minimum for each kind of engagement, with a clear message if they go under it. A budget too small to work produces a campaign that looks like our product failing.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-12-09-should-the-page-for-ordering-content-sell-a-call-or-let-peop",
+   "date": "2024-12-09",
+   "call": "Should the page for ordering content sell a call, or let people order?",
+   "choice": "Let them order. The old page was built to book a sales call. Now the first thing you can do is request content, with a call still available inside the dashboard for anyone who wants one.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-12-08-pay-for-content-from-a-prepaid-balance-or-straight-to-card",
+   "date": "2024-12-08",
+   "call": "Pay for content from a prepaid balance, or straight to card?",
+   "choice": "Straight to card. We were moving away from deposits, and charging the card directly is simpler for the customer and gets us paid right away with nothing in between.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
    ]
   },
   {
@@ -257,6 +863,42 @@
    ]
   },
   {
+   "id": "2024-10-18-our-speed-metric-was-confusing-customers-explain-it-or-chang",
+   "date": "2024-10-18",
+   "call": "Our speed metric was confusing customers. Explain it, or change it?",
+   "choice": "Change it. I measured from the moment each creator got the request instead of when the campaign was created. A metric that needs explaining is measuring the wrong thing.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-10-17-refund-the-unused-part-of-the-month-when-a-subscription-chan",
+   "date": "2024-10-17",
+   "call": "Refund the unused part of the month when a subscription changes, or give the full month?",
+   "choice": "The full month. Automatic partial refunds meant someone could pay, get canceled and receive money back they never asked for. Giving people the month they paid for is simpler and feels fair.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-10-14-where-should-creators-set-their-rates",
+   "date": "2024-10-14",
+   "call": "Where should creators set their rates?",
+   "choice": "On the settings page, next to their other preferences, instead of inside each campaign. All of a creator's settings in one place beats hunting for them screen by screen.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
    "id": "2024-10-11-run-megaphone-flat-newsletter-carries-profit",
    "date": "2024-10-11",
    "call": "Should the software business make a profit, or should the newsletter carry the company while it grows?",
@@ -268,6 +910,104 @@
     "rye-valley",
     "megaphone",
     "hard-calls"
+   ]
+  },
+  {
+   "id": "2024-09-21-show-a-free-trial-on-the-pricing-page-when-we-don-t-offer-on",
+   "date": "2024-09-21",
+   "call": "Show a free trial on the pricing page when we don't offer one yet?",
+   "choice": "No. I took it off and put it on the list to revisit. Advertising something we can't deliver confuses buyers at the exact moment they're deciding.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-07-04-price-the-new-groups-feature-for-revenue-now-or-for-adoption",
+   "date": "2024-07-04",
+   "call": "Price the new groups feature for revenue now, or for adoption?",
+   "choice": "Adoption. I replaced per-user pricing with a simple price per group that drops at volume, moved every existing user up a plan free, and launched at a discount. A feature nobody uses earns nothing.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2024-04-29-launch-groups-now-or-wait-until-text-messaging-is-ready-too",
+   "date": "2024-04-29",
+   "call": "Launch groups now, or wait until text messaging is ready too?",
+   "choice": "Now. Nothing else depended on texting, so groups shipped first and texting was built on top of it afterward. Holding a finished feature for an unfinished one just delays both.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone"
+   ]
+  },
+  {
+   "id": "2024-04-26-let-users-withdraw-their-whole-balance-or-only-what-they-ve",
+   "date": "2024-04-26",
+   "call": "Let users withdraw their whole balance, or only what they've earned?",
+   "choice": "Only what they've earned. I split deposits from earnings so people can cash out income from campaigns but can't route their own deposits back out through refunds.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-04-01-build-white-label-features-before-launching-with-a-partner-o",
+   "date": "2024-04-01",
+   "call": "Build white-label features before launching with a partner, or after?",
+   "choice": "After. We launched on what we had and added white-labeling in stages. Engineering was committed elsewhere, and phasing it meant the partnership started months earlier.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-03-07-keep-our-email-templates-in-the-email-tool-or-in-our-own-cod",
+   "date": "2024-03-07",
+   "call": "Keep our email templates in the email tool, or in our own code?",
+   "choice": "In our own code. We make every change there first, then copy it into the email tool. One source of truth means nobody wonders which version is live.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "megaphone",
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2024-02-22-require-a-full-name-in-one-box-or-split-first-and-last",
+   "date": "2024-02-22",
+   "call": "Require a full name in one box, or split first and last?",
+   "choice": "Split them. A single box needs rules that end up rejecting people who go by one name. Two fields get complete names without anyone fighting the form.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
+   ]
+  },
+  {
+   "id": "2023-11-25-collect-questions-for-a-live-founder-chat-by-private-message",
+   "date": "2023-11-25",
+   "call": "Collect questions for a live founder chat by private message, or in the open?",
+   "choice": "In the open. Posting in the channel is less work than writing a private message, and seeing other people's questions gets more people asking.",
+   "stakes": "How the business runs day to day",
+   "status": "made",
+   "reversible": "Yes",
+   "entities": [
+    "rye-valley"
    ]
   }
  ]
