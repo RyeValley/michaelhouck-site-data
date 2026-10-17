@@ -1,8 +1,18 @@
 {
-  "month": "2026-09",
-  "revenuePerHumanDollar": 4.07,
-  "revenuePerAiDollar": 8.08,
-  "aiShareOfSpend": 0.245,
-  "employees": 1,
-  "source": "Kick, all entities, September 2026"
+  "periodStart": "2026-09-14",
+  "periodEnd": "2026-10-11",
+  "periodLabel": "Sep 14 to Oct 11 2026",
+  "revenuePerAiDollar": 8.21,
+  "capacityLeverage": 11.4,
+  "revenuePerHumanDollar": 4.54,
+  "aiShareOfSpend": 0.232,
+  "employees": 9,
+  "revenuePerEmployee": 255355,
+  "humanCostAvoided": 244292,
+  "aiSpend": 21520,
+  "netSaved": 222772,
+  "hoursReturned": 2936,
+  "phase": "investing",
+  "source": "Kick books + Rye Valley agent logs, Sep 14 to Oct 11 2026",
+  "shippingVelocity": 308
 }
